@@ -1,0 +1,13 @@
+/* .aspect{
+    height: 400px;
+    background-color: gray; */
+    /* aspect-ratio: attr(3000)/attr(600); */
+    /* aspect-ratio: 5/1; */
+    
+/* } */
+.img-aspect{
+   max-height: 750px;
+   width: 90%vw; 
+}
+
+/*  */

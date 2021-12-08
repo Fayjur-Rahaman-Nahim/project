@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "imgMain": "https://i.ibb.co/D7RmFM4/burger-1.jpg",
+        "imgSec": "https://i.ibb.co/fFR3tsz/pizza.jpg"
+    },
+    {
+        "id": "2",
+        "imgMain": "https://i.ibb.co/D7RmFM4/burger-1.jpg",
+        "imgSec": "https://i.ibb.co/fFR3tsz/pizza.jpg"
+    },
+    {
+        "id": "3",
+        "imgMain": "https://i.ibb.co/D7RmFM4/burger-1.jpg",
+        "imgSec": "https://i.ibb.co/fFR3tsz/pizza.jpg"
+    },
+    {
+        "id": "4",
+        "imgMain": "https://i.ibb.co/D7RmFM4/burger-1.jpg",
+        "imgSec": "https://i.ibb.co/fFR3tsz/pizza.jpg"
+    },
+    {
+        "id": "5",
+        "imgMain": "https://i.ibb.co/D7RmFM4/burger-1.jpg",
+        "imgSec": "https://i.ibb.co/fFR3tsz/pizza.jpg"
+    },
+    {
+        "id": "6",
+        "imgMain": "https://i.ibb.co/D7RmFM4/burger-1.jpg",
+        "imgSec": "https://i.ibb.co/fFR3tsz/pizza.jpg"
+    },
+    {
+        "id": "7",
+        "imgMain": "https://i.ibb.co/D7RmFM4/burger-1.jpg",
+        "imgSec": "https://i.ibb.co/fFR3tsz/pizza.jpg"
+    },
+    {
+        "id": "8",
+        "imgMain": "https://i.ibb.co/D7RmFM4/burger-1.jpg",
+        "imgSec": "https://i.ibb.co/fFR3tsz/pizza.jpg"
+    }
+]

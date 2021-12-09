@@ -13,8 +13,9 @@
     
 }
 .modal-div{
+    /* --bs-aspect-ratio: 25% ;  */
     
-    max-width: 90%vw;
+    /* max-width: 90%vw; */
     overflow: hidden;
   
     /* height: 346px;
